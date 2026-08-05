@@ -16,7 +16,7 @@ I'm a passionate **Web Developer** dedicated to building modern, responsive, and
 
 <div align="center">
   <a href="https://rhfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/%3C%20RH%20%2F%20%3E folio-VISIT-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/%3C%20RH%20%2F%20%3E folio-VISIT-007ACC?style=plastice&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -49,3 +49,15 @@ I'm a passionate **Web Developer** dedicated to building modern, responsive, and
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+
+---
+### 📬 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rezahosseini-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rezahosseini.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
