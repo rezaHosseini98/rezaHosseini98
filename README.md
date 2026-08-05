@@ -57,7 +57,7 @@ I'm a passionate **Web Developer** dedicated to building modern, responsive, and
   <a href="https://www.linkedin.com/in/rezahosseini-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:rezahosseini.dev@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rezahosseini.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
